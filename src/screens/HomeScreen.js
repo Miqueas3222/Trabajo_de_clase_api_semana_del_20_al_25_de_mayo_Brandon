@@ -6,10 +6,10 @@ const HomeScreen = () => {
     return ( 
         <View style={styles.container}>
         <Text style={styles.title}>
-            Consumo de apis externas
+            Trabajo de clase 
         </Text>
         <Text style={styles.descripcion}>
-            Ejemplo de consumo de API externa utilizando la función <Text style={styles.negrita}>FETCH</Text> nativa de JavaScript y <Text style={styles.negrita}>AXIOS</Text> que es una biblioteca de JavaScript utilizada para hacer solicitudes HTTP
+          Trabajo de clase Brandon Daniel Sanchez Santamaria, cambios en la pantalla pokemon y se agrego la api de rick and morty
         </Text>
         </View>
      );
